@@ -46,6 +46,7 @@ CPCS_010.52 Biohazard Code - Veronica Kanzenban - Biohazard 4 Value Pack
 CZP2_011.01 Clock Zero - Shuuen no Ichibyou [Limited Edition]
 DCP2_012.01 Death Connection [Limited Edition]
 DKP2_005.02 Desert Kingdom [Limited Edition]
+FLEE_000.00 Fleet - Shiva's Gate [Proto] (2002-05-21)
 GUST_000.01 Judie no Atelier - Gramnad no Renkinjutsushi [Premium Box]
 GUST_000.02 Violet no Atelier [Limited Edition]
 GUST_000.03 Iris no Atelier - Eternal Mana [Premium Box]
@@ -11819,7 +11820,7 @@ SLUS_205.96 UFC - Ultimate Fighting Championship - Sudden Impact
 SLUS_205.97 Warhammer 40,000 - Fire Warrior
 SLUS_205.98 Everblue 2
 SLUS_205.99 Whiteout
-SLUS_206.00 SX Superstar
+SLUS_206.00 SX Superstar [Proto] (2003-04-21) 
 SLUS_206.01 Rayman 3 - Hoodlum Havoc
 SLUS_206.02 High Heat - Major League Baseball 2004
 SLUS_206.03 Mary-Kate & Ashley - Sweet Sixteen - Licensed to Drive
